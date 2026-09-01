@@ -3,7 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/bjarkeef?style=social)](https://github.com/bjarkeef)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bjarkeef/)
 
-**Senior Web Developer @ [Marginal](https://marginal.dk)**  
+**Senior Web Developer**
 Bridging the gap between complex code and real business value.
 
 I help turn ideas into working solutions for everyone from startups to big webshops and educational institutions. With 10+ years of experience across the full web stack (including extensive WordPress work) and more than 100 successfully delivered projects, I bring both technical expertise and strategic thinking to every engagement.
